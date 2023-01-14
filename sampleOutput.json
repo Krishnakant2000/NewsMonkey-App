@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Steve Almasy, Nouran Salahieh, Dakin Andone",
+            "title": "Winter storm death toll rises to 27 in the Buffalo, New York, area but officials fear it will continue to climb - CNN",
+            "description": "Dozens of Americans have died have died as a winter storm brought frigid temperatures and paralyzing snowfall totals across the US, and officials in the Buffalo area believe the staggering toll will continue to grow there as teams carry on with search-and-res…",
+            "url": "https://www.cnn.com/2022/12/26/weather/arctic-winter-storm-new-york-blizzard-monday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221226133001-03-winter-weather-ny.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-27T05:45:00Z",
+            "content": "Dozens of Americans have died have died as a winter storm brought frigid temperatures and paralyzing snowfall totals across the US, and officials in the Buffalo area believe the staggering toll will … [+9553 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kevin Dotson",
+            "title": "Miami Dolphins quarterback Tua Tagovailoa placed in NFL concussion protocol for second time - CNN",
+            "description": "Miami quarterback Tua Tagovailoa is in the NFL's concussion protocol, Dolphins head coach Mike McDaniel said at a Monday news conference.",
+            "url": "https://www.cnn.com/2022/12/26/sport/nfl-tua-tagovailoa-concussion-protocol-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221226202745-tua-tagovailoa-122622.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-27T05:30:00Z",
+            "content": "Miami quarterback Tua Tagovailoa is in the NFLs concussion protocol, Dolphins head coach Mike McDaniel said at a Monday news conference.\r\nThe announcement comes a day after Tagovailoa played the enti… [+2609 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Michael Kranish, Azi Paybarah, Hannah Knowles",
+            "title": "Rep.-elect George Santos acknowledges 'résumé embellishment' but answers little on finances - The Washington Post",
+            "description": "In interviews, the Long Island Republican acknowledged that he never graduated from college and didn't work for Wall Street firms, but he answered few questions about his wealth.",
+            "url": "https://www.washingtonpost.com/politics/2022/12/26/george-santos-resume-wealth/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UX7TDGXVWXQFOZOBYJCH6W5ZOA.JPG&w=1440",
+            "publishedAt": "2022-12-27T05:26:00Z",
+            "content": "Comment on this story\r\nGeorge Santos, a Long Island Republican who won a pivotal U.S. House race in November, acknowledged Monday night that he embellished his biography, seeking to explain his actio… [+9365 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Thomas Hale",
+            "title": "China scraps inbound quarantine rules in decisive break with zero-Covid regime - Financial Times",
+            "description": "Requirement of five days at a hotel followed by three days at home will end on January 8",
+            "url": "https://www.ft.com/content/eb8530d3-414f-4e65-8ce5-09fba3dbee14",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffce0b20c-ea9c-4c6e-8cd8-b033d43f2e8d.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-12-27T05:03:54Z",
+            "content": "China will remove quarantine requirements for inbound travellers from January 8 as the country dismantles the remnants of a zero-Covid regime that closed it off from the rest of the world for almost … [+3428 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Los Angeles Chargers vs. Indianapolis Colts | 2022 Week 16 Game Highlights - NFL",
+            "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+            "url": "https://www.youtube.com/watch?v=z3BNStfB9KI",
+            "urlToImage": "https://i.ytimg.com/vi/z3BNStfB9KI/maxresdefault.jpg",
+            "publishedAt": "2022-12-27T04:13:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rhea Mogul",
+            "title": "Ukraine's Zelensky seeks Indian Prime Minister Modi's help with peace plan - CNN",
+            "description": "Ukrainian President Volodymyr Zelensky said Monday he was relying on India's help to implement a \"peace formula\" during a phone call with Prime Minister Narendra Modi.",
+            "url": "https://www.cnn.com/2022/12/26/india/india-modi-zelensky-phone-call-peace-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221227120941-zelenskiy-122622.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-27T03:50:00Z",
+            "content": "Ukrainian President Volodymyr Zelensky said Monday he was relying on Indias help to implement a peace formula during a phone call with Prime Minister Narendra Modi. \r\nThe call comes as New Delhi seek… [+2137 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "South Korea Sends Drones to Kim Jong Un's Airspace in Unprecedented Move - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=838ded95-85b3-11ed-a301-5449585a4a52&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMi0yNy9zb3V0aC1rb3JlYS1zZW5kcy1kcm9uZXMtdG8ta2ltLWpvbmctdW4tcy1haXJzcGFjZS1pbi11bnByZWNlZGVudGVkLW1vdmU=",
+            "urlToImage": null,
+            "publishedAt": "2022-12-27T03:47:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Serbian troops on Kosovo border in state of ‘combat readiness’ - Al Jazeera English",
+            "description": "Serbian President Aleksandar Vucic has ordered that ‘all measures be taken to protect the Serbian people in Kosovo’.",
+            "url": "https://www.aljazeera.com/news/2022/12/27/serbian-troops-on-kosovo-border-in-state-of-combat",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/AP22360484165074.jpg?resize=1200%2C675",
+            "publishedAt": "2022-12-27T02:52:28Z",
+            "content": "Serbia has placed its security forces on the border with Kosovo in a full state of combat readiness, senior officials have said, amid increasingly strained relations with its neighbour and despite ca… [+4383 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Broncos terminate OL coach Butch Barry, special-teams coordinator Dwayne Stukes - NBC Sports",
+            "description": "Nathaniel Hackett wasn’t the only member of the Broncos coaching staff to be politely asked to leave on Monday.Via Mike Klis of 9News.com, the Broncos has terminated the employment of special-teams coordinator Dwayne Stukes and offensive line coach Butch Barr…",
+            "url": "https://profootballtalk.nbcsports.com/2022/12/26/broncos-terminate-ol-coach-butch-barry-special-teams-coordinator-dwayne-stukes/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/12/GettyImages-1450152708-e1672109420566.jpg",
+            "publishedAt": "2022-12-27T02:51:00Z",
+            "content": "Nathaniel Hackett wasnt the only member of the Broncos coaching staff to be politely asked to leave on Monday.\r\nVia Mike Klis of 9News.com, the Broncos has terminated the employment of special-teams … [+409 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Allison Morrow",
+            "title": "Business partners turn on Sam Bankman-Fried - CNN",
+            "description": "The stunning collapse of one of crypto's most prominent firms has quickly morphed into a legal battle pitting former executives and ex-romantic partners against one another.",
+            "url": "https://www.cnn.com/2022/12/26/business/ftx-caroline-ellison-bankman-fried/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221222143445-01-sam-bankman-fried-leaving-manhattan-court-1222.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-27T02:35:00Z",
+            "content": "The stunning collapse of one of cryptos most prominent firms has quickly morphed into a legal battle pitting former executives and ex-romantic partners against one another.\r\nLast week, as FTX founder… [+5376 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "No Clear Evidence Found to Overturn Election After Kari Lake's 2-Day Election Trial | English News - CNN-News18",
+            "description": "No Clear Evidence Found to Overturn Election After Kari Lake's 2-Day Election Trial | English NewsKari Lake’s two-day election challenge ended Thursday witho...",
+            "url": "https://www.youtube.com/watch?v=LOkLIZ-DjpI",
+            "urlToImage": "https://i.ytimg.com/vi/LOkLIZ-DjpI/maxresdefault_live.jpg",
+            "publishedAt": "2022-12-27T02:10:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Gina Martinez",
+            "title": "Potential Category 3 atmospheric river to hit Northern California - CBS News",
+            "description": "Southern California is set to experience a drop in temperatures and heavy rain to enter the new year.",
+            "url": "https://www.cbsnews.com/news/northern-california-pacific-northwest-atmospheric-river-today-2022-12-26/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/27/4b2e6358-4494-4984-8cfe-5c7265fdf082/thumbnail/1200x630/26a578f3958a9c86adf537a15b2d7bbe/noaa-atmospheric-river-2022-12-6.jpg",
+            "publishedAt": "2022-12-27T01:45:23Z",
+            "content": "Southern California is set to experience a drastic drop in temperatures on Monday while a powerful winter storm is expected to hit Northern California starting late Monday and bring several inches of… [+4009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samantha Lock",
+            "title": "Russia-Ukraine war at a glance: what we know on day 307 of the invasion - The Guardian",
+            "description": "Moscow accuses Ukraine of deadly airbase attack deep within its territory; Kyiv aims for UN-backed peace summit in February",
+            "url": "https://www.theguardian.com/world/2022/dec/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-307-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/89fe46033c9bc4f01304c2ccd97ea90715682541/0_153_5902_3542/master/5902.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8683891201173bad3ee6acd4d4a17ed",
+            "publishedAt": "2022-12-27T01:32:00Z",
+            "content": "<li>Moscow has accused Ukraine of a deadly attack on an airbase that killed threeRussian servicemen on Monday. Russias defence ministry claimed a Ukrainian drone was shot down on the approach to Enge… [+4159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Paul Best",
+            "title": "Retail sales jump 7.6% during critical holiday shopping season - Fox Business",
+            "description": "Retail sales rose 7.6% during the critical holiday season, according to Mastercard SpendingPulse, a measure that tracks online and in-store spending.",
+            "url": "https://www.foxbusiness.com/economy/retail-sales-jump-critical-holiday-shopping-season",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/shopping-xmas-3.jpg?ve=1&tl=1",
+            "publishedAt": "2022-12-27T01:15:51Z",
+            "content": "Retail sales jumped 7.6% during the critical holiday season that runs from Nov. 1 to Christmas Eve, according to Mastercard SpendingPulse, which tracks sales across all payment types. \r\nAmericans cho… [+2131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WLS-TV"
+            },
+            "author": null,
+            "title": "Southwest Airlines flights canceled at Midway leaving thousands of travelers stranded due to Winter Storm Elliott - WLS-TV",
+            "description": "Holiday travelers continue to deal with flight delays and cancellations from a nearly week-long winter storm.",
+            "url": "https://abc7chicago.com/chicago-flights-cancelled-flight-status-tracker-ohare-airport-cancellations/12615617/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/12617895_122622-wls-horng-southwest-midway-10p-vid.jpg?w=1600",
+            "publishedAt": "2022-12-27T01:12:26Z",
+            "content": "CHICAGO (WLS) -- Southwest Airlines canceled thousands of flights nationwide Monday, leaving travelers stranded at Midway airport after the Christmas holiday.\r\nWhat can I do if my flight is canceled,… [+6593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Lindsay Weinberg",
+            "title": "How Jennifer Lopez and Ben Affleck's Blended Family Celebrated “Hummingbird Christmas” - E! NEWS",
+            "description": "Jennifer Lopez gave details of her hummingbird-themed holiday season: \"We have blended families, doubled the people, doubled the fun, doubled the love.\"",
+            "url": "https://www.eonline.com/news/1359422/how-jennifer-lopez-and-ben-afflecks-blended-family-celebrated-hummingbird-christmas",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20221126/rs_1200x1200-221226160640-1200-Jennifer-Lopez-Christmas-2022.cm.122722.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-12-27T00:40:00Z",
+            "content": "This is them now! \r\nFour months after celebrating their wedding in Georgia, Jennifer Lopez and Ben Affleck rang in their first holiday season as a married couple. That meant movie nights, stockings, … [+978 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Blast at Russian base after apparent Ukrainian drone penetrates deep - Reuters",
+            "description": "A drone believed to be Ukrainian penetrated hundreds of kilometers through Russian airspace, causing a deadly explosion at the main base for Moscow's strategic bombers in the latest attack to expose gaps in its air defences.",
+            "url": "https://www.reuters.com/world/europe/russian-missiles-rain-down-ukraine-towns-putin-says-he-is-open-talks-2022-12-26/",
+            "urlToImage": "https://www.reuters.com/resizer/IUh39PQkgaqbSXes7BcgvXLFjbQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VGTORNYYQBN5HLHHY4KZOK2YQU.jpg",
+            "publishedAt": "2022-12-27T00:26:00Z",
+            "content": "KYIV, Dec 26 (Reuters) - A drone believed to be Ukrainian penetrated hundreds of kilometers through Russian airspace, causing a deadly explosion at the main base for Moscow's strategic bombers in the… [+5347 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Russia claims it shot down Ukrainian drone nearing airbase deep inside Russia - CBS News",
+            "description": "If true, it was the second time the base has been targeted this month, raising questions about the effectiveness of Russia's air defenses if drones can fly that far into the country.",
+            "url": "https://www.cbsnews.com/news/ukraine-news-russia-war-drones-russian-air-bases-second-time/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/12/26/7830a4ec-d2b0-434b-9bdf-47155df1955f/thumbnail/1200x630/e411efda6e696b115b1988e004982980/ap22359631321603.jpg",
+            "publishedAt": "2022-12-27T00:22:00Z",
+            "content": "Kyiv, Ukraine — The Russian military reported on Monday that it shot down a Ukrainian drone approaching an airbase deep inside Russia, the second time the airbase has been targeted this month, raisin… [+4255 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Migrants dropped near vice president's home on frigid Christmas Eve - CBS News",
+            "description": "Local organizers in Washington say three buses of recent migrant families arrived from Texas near the home of Vice President Kamala Harris in record-setting cold on Christmas Eve.",
+            "url": "https://www.cbsnews.com/news/buses-from-texas-drop-off-migrants-vice-president-kamala-harris-house-frigid-washington-dc/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/12/26/f9b7e8e7-7dfa-43ac-9a8e-fc8e0cb4a7f5/thumbnail/1200x630/425179419136d372a96ca087f9d2a31a/ap22359559478875.jpg",
+            "publishedAt": "2022-12-27T00:16:00Z",
+            "content": "Three buses of recent migrant families arrived from Texas near the home of Vice President Kamala Harris in record-setting cold on Christmas Eve. \r\nTexas authorities have not confirmed their involveme… [+3935 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Huileng Tan",
+            "title": "5 places where companies are moving their supply chains outside China - Business Insider",
+            "description": "Trump's trade war and COVID restrictions have forced companies to move manufacturing hubs out of China — to places like India, Vietnam, and Thailand.",
+            "url": "https://www.businessinsider.com/china-trade-war-covid-companies-moving-supply-chains-2022-12",
+            "urlToImage": "https://i.insider.com/639ac44527c0a700193e3a76?width=1200&format=jpeg",
+            "publishedAt": "2022-12-26T21:45:00Z",
+            "content": null
+        }
+    ]
+}
